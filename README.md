@@ -1,4 +1,4 @@
-# site link: https://kapatravel.netlify.app/
+# site link: https://fastpizzakapa.netlify.app/
 
 # FAST REACT PIZZA CO.
 
