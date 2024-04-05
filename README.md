@@ -1,3 +1,3 @@
 # React + Vite
 
-#FAST REACT PIZZA CO.
+# FAST REACT PIZZA CO.
